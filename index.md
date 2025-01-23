@@ -15,4 +15,3 @@ Jeddah, Saudi Arabia
 This course will cover the following topics:  
 
 - [Introduction](slides/lecture_1.html)
-- [ًWeathering and Soil](slides/lecture_2.html)
