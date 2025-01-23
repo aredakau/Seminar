@@ -15,3 +15,4 @@ Jeddah, Saudi Arabia
 This course will cover the following topics:  
 
 - [Introduction](slides/lecture_1.html)
+- [Searching in Databases and Academic Reading](slides/lecture_2.html)
